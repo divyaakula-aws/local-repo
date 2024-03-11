@@ -3,3 +3,6 @@ touch
 cd
 pwd
 mv
+top
+tail
+head
